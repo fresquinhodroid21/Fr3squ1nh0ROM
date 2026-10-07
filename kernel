@@ -1,7 +1,11 @@
 ## Kernel
 
-Fr3squ1nh0ROM uses the Samsung Galaxy A52s 5G kernel based on Linux 5.4.302.
+Fr3squ1nh0ROM uses **Nova-Kernel**, a Linux 5.4.302-based kernel supporting the Samsung Galaxy A52s 5G, Galaxy M52 5G and Galaxy A73 5G.
 
-The kernel source is maintained separately:
+For Fr3squ1nh0ROM, the target device is the **Galaxy A52s 5G (SM-A528B / a52sxq)**.
 
-[Kernel Source →] (https://github.com/m52xq/Nova-Kernel)
+Kernel source:
+
+* Nova-Kernel — https://github.com/m52xq/Nova-Kernel
+
+The kernel source is maintained separately from the Fr3squ1nh0ROM device tree and ROM sources.
